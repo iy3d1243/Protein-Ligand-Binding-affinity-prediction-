@@ -1,0 +1,7 @@
+Ligand InChI	
+Ligand InChI 
+BindingDB Ligand Name
+Dimer of Gag-Pol polyprotein
+BindingDB Entry DOI
+PMID
+Patent Number
