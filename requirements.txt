@@ -1,0 +1,27 @@
+# Core deep learning frameworks
+torch>=2.0.0
+torch-geometric>=2.3.0
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+
+# Chemistry and molecular processing
+rdkit>=2022.9.0
+
+# Transformers and protein modeling
+transformers>=4.20.0
+tokenizers>=0.13.0
+
+# Progress bars and utilities
+tqdm>=4.64.0
+
+# Optional: For enhanced logging and monitoring
+# wandb>=0.13.0
+# tensorboard>=2.10.0
+
+# Development and testing (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0
