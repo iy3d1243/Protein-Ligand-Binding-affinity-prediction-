@@ -1,5 +1,4 @@
-# Drug-Target Affinity (DTA) Prediction
-## Stil undrer construction 
+# Drug-Target Affinity (DTA) Prediction (Stil undrer construction)  
 
 A deep learning model for predicting drug-target binding affinity using Graph Neural Networks (GNN), ESM-2 protein encoding, and bidirectional cross-attention mechanisms.
 
